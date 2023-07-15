@@ -1,5 +1,5 @@
 # Weather App
-This is a web app developed as a final project for SheCodes Plus using HTML, CSS, and Vanilla JavaScript. It is hosted on Netlify and utilizes OpenWeatherMap API to fetch weather data. The app allows users to search for the weather conditions of any city in the world and provides current weather conditions, a 5-day forecast, and hourly forecasts. Additionally, the app can detect the user's current position if they allow it.
+This is a web app developed as a  project using HTML, CSS, and Vanilla JavaScript. It is hosted on Netlify and utilizes OpenWeatherMap API to fetch weather data. The app allows users to search for the weather conditions of any city in the world and provides current weather conditions, a 5-day forecast, and hourly forecasts. Additionally, the app can detect the user's current position if they allow it.
 
 # Features
 - Users can search for weather conditions of any city in the world.
