@@ -13,7 +13,6 @@ This is a web app developed as a final project for SheCodes Plus using HTML, CSS
 - CSS
 - Vanilla JavaScript
 - VS Code
-- SheCodes Weather API
 - OpenWeatherMap API
 - Netlify
 
